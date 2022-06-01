@@ -1,6 +1,8 @@
 # AudioClassification
 Audio Classification Using GTZAN Dataset.
-This Project is Done Both on Jupiter Notebook where we have EDA and ML Grid Cross Validation to Chose ML the best ML technique and in Pycharm we have implemented it to Flask Web Api
+
+This Project is Done Both on Jupiter Notebook where we have EDA and ML Grid Cross Validation to Chose ML the best ML technique and in Pycharm we have implemented it to Flask Web Api.
+
 The Following Text is References for the Project On 'Audio classification based on music genre' using Gtzan dataset
 - 'https://en.wikipedia.org/wiki/Music_genre'
 - Deep Learning For Audio Python Playlist From The Sound Of AI :Valerio Verlardo(https://www.youtube.com/c/ValerioVelardoTheSoundofAI)
